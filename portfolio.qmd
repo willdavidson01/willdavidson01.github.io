@@ -1,0 +1,9 @@
+---
+title: "Portfolio"
+---
+
+The school projects I have are:
+
+- [Toronto Marriage](https://github.com/willdavidson01/analysis_toronto_marriage), which is an R package about marriages in Toronto.
+
+- [Food Bank](https://github.com/willdavidson01/food_bank), which is an R package on food bank usgae over the pandemic.

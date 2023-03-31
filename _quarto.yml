@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Will Davidson"
+  navbar:
+    left:
+      - href: resume.pdf
+        text: CV
+      - portfolio.qmd
+
+format: 
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+
